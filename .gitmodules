@@ -1,0 +1,3 @@
+[submodule "Spooky/vendor/spdlog"]
+	path = Spooky/vendor/spdlog
+	url = https://github.com/gabime/spdlog

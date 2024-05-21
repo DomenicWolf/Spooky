@@ -5,6 +5,7 @@
 #include <stdio.h>
 #include "Spooky/Core.h"
 #include "Spooky/Application.h"
+#include "Spooky/Log.h"
 
 // ------Entry point ----------
 

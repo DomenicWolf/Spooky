@@ -27,9 +27,15 @@
     <ClInclude Include="src\Spooky\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\Spooky\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Spooky\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Spooky\Log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
